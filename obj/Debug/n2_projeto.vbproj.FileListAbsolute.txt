@@ -1,0 +1,1053 @@
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto\bin\Debug\n2_projeto.exe.config
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto\bin\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto\bin\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto\bin\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.Resources.resources
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.frm_menu.resources
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto\bin\Debug\n2_projeto.exe.config
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto\bin\Debug\n2_projeto.exe
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto\bin\Debug\n2_projeto.pdb
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto\bin\Debug\n2_projeto.xml
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.vbproj.SuggestedBindingRedirects.cache
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\Interop.ADODB.dll
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.frm_menu.resources
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.frm_cad_clientes.resources
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.Resources.resources
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.exe
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.xml
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto\obj\Debug\n2_projeto.pdb
+C:\Users\aluno\Desktop\n2_projeto\bin\Debug\n2_projeto.exe.config
+C:\Users\aluno\Desktop\n2_projeto\bin\Debug\n2_projeto.exe
+C:\Users\aluno\Desktop\n2_projeto\bin\Debug\n2_projeto.pdb
+C:\Users\aluno\Desktop\n2_projeto\bin\Debug\n2_projeto.xml
+C:\Users\aluno\Desktop\n2_projeto\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\n2_projeto\obj\Debug\n2_projeto.vbproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\n2_projeto\obj\Debug\Interop.ADODB.dll
+C:\Users\aluno\Desktop\n2_projeto\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\aluno\Desktop\n2_projeto\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\aluno\Desktop\n2_projeto\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\aluno\Desktop\n2_projeto\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\aluno\Desktop\n2_projeto\obj\Debug\n2_projeto.Resources.resources
+C:\Users\aluno\Desktop\n2_projeto\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\aluno\Desktop\n2_projeto\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\n2_projeto\obj\Debug\n2_projeto.exe
+C:\Users\aluno\Desktop\n2_projeto\obj\Debug\n2_projeto.xml
+C:\Users\aluno\Desktop\n2_projeto\obj\Debug\n2_projeto.pdb
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\bin\Debug\n2_projeto.exe.config
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\bin\Debug\n2_projeto.exe
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\bin\Debug\n2_projeto.pdb
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\bin\Debug\n2_projeto.xml
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.SuggestedBindingRedirects.cache
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\Interop.ADODB.dll
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.frm_menu.resources
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_clientes.resources
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.Resources.resources
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.exe
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.xml
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\bin\Debug\n2_projeto.exe.config
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\bin\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\bin\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\bin\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.Resources.resources
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\fatec\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.pdb
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2_projeto (novo)\obj\Debug\n2_projeto.frm_listagem_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto (novo)\bin\Debug\n2_projeto.exe.config
+C:\Users\gabri\Desktop\n2_projeto (novo)\bin\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto (novo)\bin\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto (novo)\bin\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\n2_projeto (novo)\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\gabri\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\gabri\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.Resources.resources
+C:\Users\gabri\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\thais\Desktop\Projeto atual\n2_projeto (novo)\bin\Debug\n2_projeto.exe.config
+C:\Users\thais\Desktop\Projeto atual\n2_projeto (novo)\bin\Debug\n2_projeto.exe
+C:\Users\thais\Desktop\Projeto atual\n2_projeto (novo)\bin\Debug\n2_projeto.pdb
+C:\Users\thais\Desktop\Projeto atual\n2_projeto (novo)\bin\Debug\n2_projeto.xml
+C:\Users\thais\Desktop\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\thais\Desktop\Projeto atual\n2_projeto (novo)\obj\Debug\Interop.ADODB.dll
+C:\Users\thais\Desktop\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\thais\Desktop\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\thais\Desktop\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\thais\Desktop\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\thais\Desktop\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\thais\Desktop\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\thais\Desktop\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\thais\Desktop\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.Resources.resources
+C:\Users\thais\Desktop\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\thais\Desktop\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\thais\Desktop\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.exe
+C:\Users\thais\Desktop\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.xml
+C:\Users\thais\Desktop\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.pdb
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2\Projeto atual\n2_projeto (novo)\bin\Debug\n2_projeto.exe.config
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2\Projeto atual\n2_projeto (novo)\bin\Debug\n2_projeto.exe
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2\Projeto atual\n2_projeto (novo)\bin\Debug\n2_projeto.pdb
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2\Projeto atual\n2_projeto (novo)\bin\Debug\n2_projeto.xml
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.SuggestedBindingRedirects.cache
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2\Projeto atual\n2_projeto (novo)\obj\Debug\Interop.ADODB.dll
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.frm_listagem.resources
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.frm_menu.resources
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_clientes.resources
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.Resources.resources
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.exe
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.xml
+D:\FATECSCS\2º Período\Sistemas de informação\.NET\n2\Projeto atual\n2_projeto (novo)\obj\Debug\n2_projeto.pdb
+C:\Users\aluno\Desktop\n2_projeto (novo)\bin\Debug\n2_projeto.exe.config
+C:\Users\aluno\Desktop\n2_projeto (novo)\bin\Debug\n2_projeto.exe
+C:\Users\aluno\Desktop\n2_projeto (novo)\bin\Debug\n2_projeto.pdb
+C:\Users\aluno\Desktop\n2_projeto (novo)\bin\Debug\n2_projeto.xml
+C:\Users\aluno\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\n2_projeto (novo)\obj\Debug\Interop.ADODB.dll
+C:\Users\aluno\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\aluno\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\aluno\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\aluno\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\aluno\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\aluno\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\aluno\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\aluno\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.Resources.resources
+C:\Users\aluno\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\aluno\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.exe
+C:\Users\aluno\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.xml
+C:\Users\aluno\Desktop\n2_projeto (novo)\obj\Debug\n2_projeto.pdb
+C:\Users\thais\Desktop\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.exe.config
+C:\Users\thais\Desktop\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.exe
+C:\Users\thais\Desktop\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.pdb
+C:\Users\thais\Desktop\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.xml
+C:\Users\thais\Desktop\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\thais\Desktop\arquivito\n2_projeto (novo)\obj\Debug\Interop.ADODB.dll
+C:\Users\thais\Desktop\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\thais\Desktop\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\thais\Desktop\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\thais\Desktop\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\thais\Desktop\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\thais\Desktop\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\thais\Desktop\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\thais\Desktop\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.Resources.resources
+C:\Users\thais\Desktop\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\thais\Desktop\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\thais\Desktop\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.exe
+C:\Users\thais\Desktop\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.xml
+C:\Users\thais\Desktop\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.pdb
+C:\Users\thais\Desktop\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.Form1.resources
+C:\Users\thais\Desktop\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_contatos.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\n2_projeto (novo)\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_contatos.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.pdb
+D:\arquivito\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.exe.config
+D:\arquivito\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.exe
+D:\arquivito\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.pdb
+D:\arquivito\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.xml
+D:\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+D:\arquivito\arquivito\n2_projeto (novo)\obj\Debug\Interop.ADODB.dll
+D:\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+D:\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+D:\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_contatos.resources
+D:\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+D:\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_listagem.resources
+D:\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_menu.resources
+D:\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_clientes.resources
+D:\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+D:\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.Resources.resources
+D:\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+D:\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+D:\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.exe
+D:\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.xml
+D:\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_contatos.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\bin\Debug\x86\sqlite3.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\bin\Debug\x64\sqlite3.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\bin\Debug\EntityFramework.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\bin\Debug\System.Data.SQLite.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\bin\Debug\EntityFramework.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\bin\Debug\System.Data.SQLite.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\arquivito\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.xml
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\bin\Debug\x86\sqlite3.dll
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\bin\Debug\x64\sqlite3.dll
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.exe.config
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.exe
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.pdb
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.xml
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\bin\Debug\Bunifu_UI_v1.52.dll
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\bin\Debug\EntityFramework.dll
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\bin\Debug\EntityFramework.SqlServer.dll
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\bin\Debug\System.Data.SQLite.dll
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\bin\Debug\System.Data.SQLite.EF6.dll
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\bin\Debug\System.Data.SQLite.Linq.dll
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\bin\Debug\EntityFramework.xml
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\bin\Debug\EntityFramework.SqlServer.xml
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\bin\Debug\System.Data.SQLite.xml
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.SuggestedBindingRedirects.cache
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\obj\Debug\Interop.ADODB.dll
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_contatos.resources
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_listagem.resources
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_menu.resources
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_clientes.resources
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.Resources.resources
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.CopyComplete
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.exe
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.xml
+D:\FATECSCS\2º Período\Sistemas de informação\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.pdb
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\x86\sqlite3.dll
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\x64\sqlite3.dll
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.exe.config
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.exe
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.pdb
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.xml
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\EntityFramework.dll
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\System.Data.SQLite.dll
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\EntityFramework.xml
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\System.Data.SQLite.xml
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\Interop.ADODB.dll
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_contatos.resources
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.Resources.resources
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.exe
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.xml
+C:\Users\thais\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\x86\sqlite3.dll
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\x64\sqlite3.dll
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.exe.config
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\System.Data.SQLite.dll
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\bin\Debug\System.Data.SQLite.xml
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_contatos.resources
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.Resources.resources
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\arquivo_07\arquivito\arquivito\n2_projeto (novo)\obj\Debug\n2_projeto.pdb
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\bin\Debug\x86\sqlite3.dll
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\bin\Debug\x64\sqlite3.dll
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\bin\Debug\n2_projeto.exe.config
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\bin\Debug\n2_projeto.exe
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\bin\Debug\n2_projeto.pdb
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\bin\Debug\n2_projeto.xml
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\bin\Debug\Bunifu_UI_v1.52.dll
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\bin\Debug\EntityFramework.dll
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\bin\Debug\EntityFramework.SqlServer.dll
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\bin\Debug\System.Data.SQLite.dll
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\bin\Debug\System.Data.SQLite.EF6.dll
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\bin\Debug\System.Data.SQLite.Linq.dll
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\bin\Debug\EntityFramework.xml
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\bin\Debug\EntityFramework.SqlServer.xml
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\bin\Debug\System.Data.SQLite.xml
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\obj\Debug\n2_projeto.vbproj.SuggestedBindingRedirects.cache
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\obj\Debug\Interop.ADODB.dll
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\obj\Debug\n2_projeto.frm_contatos.resources
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\obj\Debug\n2_projeto.frm_listagem.resources
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\obj\Debug\n2_projeto.frm_menu.resources
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\obj\Debug\n2_projeto.frm_cad_clientes.resources
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\obj\Debug\n2_projeto.Resources.resources
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\obj\Debug\n2_projeto.vbproj.CopyComplete
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\obj\Debug\n2_projeto.exe
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\obj\Debug\n2_projeto.xml
+D:\FATECSCS\2º Período\Sistemas de informação\n2_projeto08-11\obj\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto08-11\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\n2_projeto08-11\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\Desktop\n2_projeto08-11\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\n2_projeto08-11\obj\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto08-11\obj\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto08-11\obj\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto08-11\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\gabri\Desktop\n2_projeto08-11\obj\Debug\n2_projeto.frm_contatos_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto08-11\obj\Debug\n2_projeto.frm_contatos_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto08-11\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto08-11\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto08-11\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\gabri\Desktop\n2_projeto08-11\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto08-11\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto08-11\obj\Debug\n2_projeto.Resources.resources
+C:\Users\gabri\Desktop\n2_projeto08-11\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\n2_projeto08-11\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\n2_projeto08-11\bin\Debug\x86\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto08-11\bin\Debug\x64\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto08-11\bin\Debug\n2_projeto.exe.config
+C:\Users\gabri\Desktop\n2_projeto08-11\bin\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto08-11\bin\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto08-11\bin\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto08-11\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Desktop\n2_projeto08-11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\Desktop\n2_projeto08-11\bin\Debug\System.Data.SQLite.dll
+C:\Users\gabri\Desktop\n2_projeto08-11\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gabri\Desktop\n2_projeto08-11\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gabri\Desktop\n2_projeto08-11\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Desktop\n2_projeto08-11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\Desktop\n2_projeto08-11\bin\Debug\System.Data.SQLite.xml
+C:\Users\gabri\Desktop\n2_projeto08-11\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\thais\Desktop\n2_projeto10-11\bin\Debug\x86\sqlite3.dll
+C:\Users\thais\Desktop\n2_projeto10-11\bin\Debug\x64\sqlite3.dll
+C:\Users\thais\Desktop\n2_projeto10-11\bin\Debug\n2_projeto.exe.config
+C:\Users\thais\Desktop\n2_projeto10-11\bin\Debug\n2_projeto.exe
+C:\Users\thais\Desktop\n2_projeto10-11\bin\Debug\n2_projeto.pdb
+C:\Users\thais\Desktop\n2_projeto10-11\bin\Debug\n2_projeto.xml
+C:\Users\thais\Desktop\n2_projeto10-11\bin\Debug\EntityFramework.dll
+C:\Users\thais\Desktop\n2_projeto10-11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thais\Desktop\n2_projeto10-11\bin\Debug\System.Data.SQLite.dll
+C:\Users\thais\Desktop\n2_projeto10-11\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\thais\Desktop\n2_projeto10-11\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\thais\Desktop\n2_projeto10-11\bin\Debug\EntityFramework.xml
+C:\Users\thais\Desktop\n2_projeto10-11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thais\Desktop\n2_projeto10-11\bin\Debug\System.Data.SQLite.xml
+C:\Users\thais\Desktop\n2_projeto10-11\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\thais\Desktop\n2_projeto10-11\obj\Debug\Interop.ADODB.dll
+C:\Users\thais\Desktop\n2_projeto10-11\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\thais\Desktop\n2_projeto10-11\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\thais\Desktop\n2_projeto10-11\obj\Debug\n2_projeto.frm_contatos_clientes.resources
+C:\Users\thais\Desktop\n2_projeto10-11\obj\Debug\n2_projeto.frm_contatos_fornecedores.resources
+C:\Users\thais\Desktop\n2_projeto10-11\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\thais\Desktop\n2_projeto10-11\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\thais\Desktop\n2_projeto10-11\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\thais\Desktop\n2_projeto10-11\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\thais\Desktop\n2_projeto10-11\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\thais\Desktop\n2_projeto10-11\obj\Debug\n2_projeto.Resources.resources
+C:\Users\thais\Desktop\n2_projeto10-11\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\thais\Desktop\n2_projeto10-11\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\thais\Desktop\n2_projeto10-11\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\thais\Desktop\n2_projeto10-11\obj\Debug\n2_projeto.exe
+C:\Users\thais\Desktop\n2_projeto10-11\obj\Debug\n2_projeto.xml
+C:\Users\thais\Desktop\n2_projeto10-11\obj\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto11-11\bin\Debug\x86\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto11-11\bin\Debug\x64\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto11-11\bin\Debug\n2_projeto.exe.config
+C:\Users\gabri\Desktop\n2_projeto11-11\bin\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto11-11\bin\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto11-11\bin\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto11-11\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Desktop\n2_projeto11-11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\Desktop\n2_projeto11-11\bin\Debug\System.Data.SQLite.dll
+C:\Users\gabri\Desktop\n2_projeto11-11\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gabri\Desktop\n2_projeto11-11\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gabri\Desktop\n2_projeto11-11\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Desktop\n2_projeto11-11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\Desktop\n2_projeto11-11\bin\Debug\System.Data.SQLite.xml
+C:\Users\gabri\Desktop\n2_projeto11-11\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\n2_projeto11-11\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\Desktop\n2_projeto11-11\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\n2_projeto11-11\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\gabri\Desktop\n2_projeto11-11\obj\Debug\n2_projeto.frm_contatos_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto11-11\obj\Debug\n2_projeto.frm_contatos_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto11-11\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto11-11\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto11-11\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\gabri\Desktop\n2_projeto11-11\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto11-11\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto11-11\obj\Debug\n2_projeto.Resources.resources
+C:\Users\gabri\Desktop\n2_projeto11-11\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\n2_projeto11-11\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\n2_projeto11-11\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\gabri\Desktop\n2_projeto11-11\obj\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto11-11\obj\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto11-11\obj\Debug\n2_projeto.pdb
+C:\Users\thais\Desktop\n2_projeto13-11\bin\Debug\x86\sqlite3.dll
+C:\Users\thais\Desktop\n2_projeto13-11\bin\Debug\x64\sqlite3.dll
+C:\Users\thais\Desktop\n2_projeto13-11\bin\Debug\n2_projeto.exe.config
+C:\Users\thais\Desktop\n2_projeto13-11\bin\Debug\n2_projeto.exe
+C:\Users\thais\Desktop\n2_projeto13-11\bin\Debug\n2_projeto.pdb
+C:\Users\thais\Desktop\n2_projeto13-11\bin\Debug\n2_projeto.xml
+C:\Users\thais\Desktop\n2_projeto13-11\bin\Debug\EntityFramework.dll
+C:\Users\thais\Desktop\n2_projeto13-11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thais\Desktop\n2_projeto13-11\bin\Debug\System.Data.SQLite.dll
+C:\Users\thais\Desktop\n2_projeto13-11\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\thais\Desktop\n2_projeto13-11\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\thais\Desktop\n2_projeto13-11\bin\Debug\EntityFramework.xml
+C:\Users\thais\Desktop\n2_projeto13-11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thais\Desktop\n2_projeto13-11\bin\Debug\System.Data.SQLite.xml
+C:\Users\thais\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\thais\Desktop\n2_projeto13-11\obj\Debug\Interop.ADODB.dll
+C:\Users\thais\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\thais\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\thais\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.frm_contatos_clientes.resources
+C:\Users\thais\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.frm_contatos_fornecedores.resources
+C:\Users\thais\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\thais\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\thais\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\thais\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\thais\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\thais\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.Resources.resources
+C:\Users\thais\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\thais\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\thais\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\thais\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.exe
+C:\Users\thais\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.xml
+C:\Users\thais\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto13-11\bin\Debug\x86\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto13-11\bin\Debug\x64\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto13-11\bin\Debug\n2_projeto.exe.config
+C:\Users\gabri\Desktop\n2_projeto13-11\bin\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto13-11\bin\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto13-11\bin\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto13-11\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Desktop\n2_projeto13-11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\Desktop\n2_projeto13-11\bin\Debug\System.Data.SQLite.dll
+C:\Users\gabri\Desktop\n2_projeto13-11\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gabri\Desktop\n2_projeto13-11\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gabri\Desktop\n2_projeto13-11\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Desktop\n2_projeto13-11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\Desktop\n2_projeto13-11\bin\Debug\System.Data.SQLite.xml
+C:\Users\gabri\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\n2_projeto13-11\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\gabri\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.frm_contatos_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.frm_contatos_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\gabri\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.Resources.resources
+C:\Users\gabri\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\gabri\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto13-11\obj\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto14-11\bin\Debug\x86\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto14-11\bin\Debug\x64\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto14-11\bin\Debug\n2_projeto.exe.config
+C:\Users\gabri\Desktop\n2_projeto14-11\bin\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto14-11\bin\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto14-11\bin\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto14-11\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Desktop\n2_projeto14-11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\Desktop\n2_projeto14-11\bin\Debug\System.Data.SQLite.dll
+C:\Users\gabri\Desktop\n2_projeto14-11\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gabri\Desktop\n2_projeto14-11\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gabri\Desktop\n2_projeto14-11\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Desktop\n2_projeto14-11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\Desktop\n2_projeto14-11\bin\Debug\System.Data.SQLite.xml
+C:\Users\gabri\Desktop\n2_projeto14-11\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\n2_projeto14-11\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\Desktop\n2_projeto14-11\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\n2_projeto14-11\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\gabri\Desktop\n2_projeto14-11\obj\Debug\n2_projeto.frm_contatos_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto14-11\obj\Debug\n2_projeto.frm_contatos_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto14-11\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto14-11\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto14-11\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\gabri\Desktop\n2_projeto14-11\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto14-11\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto14-11\obj\Debug\n2_projeto.Resources.resources
+C:\Users\gabri\Desktop\n2_projeto14-11\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\n2_projeto14-11\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\n2_projeto14-11\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\gabri\Desktop\n2_projeto14-11\obj\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto14-11\obj\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto14-11\obj\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto16-11\bin\Debug\x86\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto16-11\bin\Debug\x64\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto16-11\bin\Debug\n2_projeto.exe.config
+C:\Users\gabri\Desktop\n2_projeto16-11\bin\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto16-11\bin\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto16-11\bin\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto16-11\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Desktop\n2_projeto16-11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\Desktop\n2_projeto16-11\bin\Debug\System.Data.SQLite.dll
+C:\Users\gabri\Desktop\n2_projeto16-11\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gabri\Desktop\n2_projeto16-11\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gabri\Desktop\n2_projeto16-11\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Desktop\n2_projeto16-11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\Desktop\n2_projeto16-11\bin\Debug\System.Data.SQLite.xml
+C:\Users\gabri\Desktop\n2_projeto16-11\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\n2_projeto16-11\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\Desktop\n2_projeto16-11\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\n2_projeto16-11\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\gabri\Desktop\n2_projeto16-11\obj\Debug\n2_projeto.frm_contatos_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto16-11\obj\Debug\n2_projeto.frm_contatos_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto16-11\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto16-11\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto16-11\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\gabri\Desktop\n2_projeto16-11\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto16-11\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto16-11\obj\Debug\n2_projeto.Resources.resources
+C:\Users\gabri\Desktop\n2_projeto16-11\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\n2_projeto16-11\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\n2_projeto16-11\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\gabri\Desktop\n2_projeto16-11\obj\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto16-11\obj\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto16-11\obj\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto17-11\bin\Debug\x86\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto17-11\bin\Debug\x64\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto17-11\bin\Debug\n2_projeto.exe.config
+C:\Users\gabri\Desktop\n2_projeto17-11\bin\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto17-11\bin\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto17-11\bin\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto17-11\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Desktop\n2_projeto17-11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\Desktop\n2_projeto17-11\bin\Debug\System.Data.SQLite.dll
+C:\Users\gabri\Desktop\n2_projeto17-11\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gabri\Desktop\n2_projeto17-11\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gabri\Desktop\n2_projeto17-11\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Desktop\n2_projeto17-11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\Desktop\n2_projeto17-11\bin\Debug\System.Data.SQLite.xml
+C:\Users\gabri\Desktop\n2_projeto17-11\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\n2_projeto17-11\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\Desktop\n2_projeto17-11\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\n2_projeto17-11\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\gabri\Desktop\n2_projeto17-11\obj\Debug\n2_projeto.frm_contatos_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto17-11\obj\Debug\n2_projeto.frm_contatos_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto17-11\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto17-11\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto17-11\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\gabri\Desktop\n2_projeto17-11\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto17-11\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto17-11\obj\Debug\n2_projeto.Resources.resources
+C:\Users\gabri\Desktop\n2_projeto17-11\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\n2_projeto17-11\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\n2_projeto17-11\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\gabri\Desktop\n2_projeto17-11\obj\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto17-11\obj\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto17-11\obj\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto21-11\bin\Debug\x86\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto21-11\bin\Debug\x64\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto21-11\bin\Debug\n2_projeto.exe.config
+C:\Users\gabri\Desktop\n2_projeto21-11\bin\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto21-11\bin\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto21-11\bin\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto21-11\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Desktop\n2_projeto21-11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\Desktop\n2_projeto21-11\bin\Debug\System.Data.SQLite.dll
+C:\Users\gabri\Desktop\n2_projeto21-11\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gabri\Desktop\n2_projeto21-11\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gabri\Desktop\n2_projeto21-11\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Desktop\n2_projeto21-11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\Desktop\n2_projeto21-11\bin\Debug\System.Data.SQLite.xml
+C:\Users\gabri\Desktop\n2_projeto21-11\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\n2_projeto21-11\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\Desktop\n2_projeto21-11\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\n2_projeto21-11\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\gabri\Desktop\n2_projeto21-11\obj\Debug\n2_projeto.frm_contatos_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto21-11\obj\Debug\n2_projeto.frm_contatos_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto21-11\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto21-11\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto21-11\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\gabri\Desktop\n2_projeto21-11\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto21-11\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto21-11\obj\Debug\n2_projeto.Resources.resources
+C:\Users\gabri\Desktop\n2_projeto21-11\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\n2_projeto21-11\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\n2_projeto21-11\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\gabri\Desktop\n2_projeto21-11\obj\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto21-11\obj\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto21-11\obj\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto21-11\obj\Debug\n2_projeto.frm_list_contatos_c.resources
+C:\Users\gabri\Desktop\n2_projeto21-11\obj\Debug\n2_projeto.frm_list_contatos_f.resources
+C:\Users\thais\Desktop\n2_projeto22-11\bin\Debug\x86\sqlite3.dll
+C:\Users\thais\Desktop\n2_projeto22-11\bin\Debug\x64\sqlite3.dll
+C:\Users\thais\Desktop\n2_projeto22-11\bin\Debug\n2_projeto.exe.config
+C:\Users\thais\Desktop\n2_projeto22-11\bin\Debug\n2_projeto.exe
+C:\Users\thais\Desktop\n2_projeto22-11\bin\Debug\n2_projeto.pdb
+C:\Users\thais\Desktop\n2_projeto22-11\bin\Debug\n2_projeto.xml
+C:\Users\thais\Desktop\n2_projeto22-11\bin\Debug\EntityFramework.dll
+C:\Users\thais\Desktop\n2_projeto22-11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thais\Desktop\n2_projeto22-11\bin\Debug\System.Data.SQLite.dll
+C:\Users\thais\Desktop\n2_projeto22-11\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\thais\Desktop\n2_projeto22-11\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\thais\Desktop\n2_projeto22-11\bin\Debug\EntityFramework.xml
+C:\Users\thais\Desktop\n2_projeto22-11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thais\Desktop\n2_projeto22-11\bin\Debug\System.Data.SQLite.xml
+C:\Users\thais\Desktop\n2_projeto22-11\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\thais\Desktop\n2_projeto22-11\obj\Debug\Interop.ADODB.dll
+C:\Users\thais\Desktop\n2_projeto22-11\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\thais\Desktop\n2_projeto22-11\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\thais\Desktop\n2_projeto22-11\obj\Debug\n2_projeto.frm_contatos_clientes.resources
+C:\Users\thais\Desktop\n2_projeto22-11\obj\Debug\n2_projeto.frm_contatos_fornecedores.resources
+C:\Users\thais\Desktop\n2_projeto22-11\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\thais\Desktop\n2_projeto22-11\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\thais\Desktop\n2_projeto22-11\obj\Debug\n2_projeto.frm_list_contatos_c.resources
+C:\Users\thais\Desktop\n2_projeto22-11\obj\Debug\n2_projeto.frm_list_contatos_f.resources
+C:\Users\thais\Desktop\n2_projeto22-11\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\thais\Desktop\n2_projeto22-11\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\thais\Desktop\n2_projeto22-11\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\thais\Desktop\n2_projeto22-11\obj\Debug\n2_projeto.Resources.resources
+C:\Users\thais\Desktop\n2_projeto22-11\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\thais\Desktop\n2_projeto22-11\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\thais\Desktop\n2_projeto22-11\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\thais\Desktop\n2_projeto22-11\obj\Debug\n2_projeto.exe
+C:\Users\thais\Desktop\n2_projeto22-11\obj\Debug\n2_projeto.xml
+C:\Users\thais\Desktop\n2_projeto22-11\obj\Debug\n2_projeto.pdb
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\bin\Debug\x86\sqlite3.dll
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\bin\Debug\x64\sqlite3.dll
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\bin\Debug\n2_projeto.exe.config
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\bin\Debug\n2_projeto.exe
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\bin\Debug\n2_projeto.pdb
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\bin\Debug\n2_projeto.xml
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\bin\Debug\EntityFramework.dll
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\bin\Debug\System.Data.SQLite.dll
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\bin\Debug\EntityFramework.xml
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\bin\Debug\System.Data.SQLite.xml
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\obj\Debug\n2_projeto.vbproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\obj\Debug\Interop.ADODB.dll
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\obj\Debug\n2_projeto.frm_contatos_clientes.resources
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\obj\Debug\n2_projeto.frm_contatos_fornecedores.resources
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\obj\Debug\n2_projeto.frm_list_contatos_c.resources
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\obj\Debug\n2_projeto.frm_list_contatos_f.resources
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\obj\Debug\n2_projeto.Resources.resources
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\obj\Debug\n2_projeto.exe
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\obj\Debug\n2_projeto.xml
+C:\Users\aluno\Desktop\n2_projeto22-11(2)\obj\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto23-11\bin\Debug\x86\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto23-11\bin\Debug\x64\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto23-11\bin\Debug\n2_projeto.exe.config
+C:\Users\gabri\Desktop\n2_projeto23-11\bin\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto23-11\bin\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto23-11\bin\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto23-11\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Desktop\n2_projeto23-11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\Desktop\n2_projeto23-11\bin\Debug\System.Data.SQLite.dll
+C:\Users\gabri\Desktop\n2_projeto23-11\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gabri\Desktop\n2_projeto23-11\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gabri\Desktop\n2_projeto23-11\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Desktop\n2_projeto23-11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\Desktop\n2_projeto23-11\bin\Debug\System.Data.SQLite.xml
+C:\Users\gabri\Desktop\n2_projeto23-11\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\n2_projeto23-11\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\Desktop\n2_projeto23-11\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\n2_projeto23-11\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\gabri\Desktop\n2_projeto23-11\obj\Debug\n2_projeto.frm_contatos_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto23-11\obj\Debug\n2_projeto.frm_contatos_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto23-11\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto23-11\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto23-11\obj\Debug\n2_projeto.frm_list_contatos_c.resources
+C:\Users\gabri\Desktop\n2_projeto23-11\obj\Debug\n2_projeto.frm_list_contatos_f.resources
+C:\Users\gabri\Desktop\n2_projeto23-11\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\gabri\Desktop\n2_projeto23-11\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto23-11\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto23-11\obj\Debug\n2_projeto.Resources.resources
+C:\Users\gabri\Desktop\n2_projeto23-11\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\n2_projeto23-11\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\n2_projeto23-11\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\gabri\Desktop\n2_projeto23-11\obj\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto23-11\obj\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto23-11\obj\Debug\n2_projeto.pdb
+C:\Users\aluno\Desktop\n2_projeto26-11\bin\Debug\x86\sqlite3.dll
+C:\Users\aluno\Desktop\n2_projeto26-11\bin\Debug\x64\sqlite3.dll
+C:\Users\aluno\Desktop\n2_projeto26-11\bin\Debug\n2_projeto.exe.config
+C:\Users\aluno\Desktop\n2_projeto26-11\bin\Debug\n2_projeto.exe
+C:\Users\aluno\Desktop\n2_projeto26-11\bin\Debug\n2_projeto.pdb
+C:\Users\aluno\Desktop\n2_projeto26-11\bin\Debug\n2_projeto.xml
+C:\Users\aluno\Desktop\n2_projeto26-11\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\aluno\Desktop\n2_projeto26-11\bin\Debug\EntityFramework.dll
+C:\Users\aluno\Desktop\n2_projeto26-11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aluno\Desktop\n2_projeto26-11\bin\Debug\System.Data.SQLite.dll
+C:\Users\aluno\Desktop\n2_projeto26-11\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\aluno\Desktop\n2_projeto26-11\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\aluno\Desktop\n2_projeto26-11\bin\Debug\EntityFramework.xml
+C:\Users\aluno\Desktop\n2_projeto26-11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aluno\Desktop\n2_projeto26-11\bin\Debug\System.Data.SQLite.xml
+C:\Users\aluno\Desktop\n2_projeto26-11\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\n2_projeto26-11\obj\Debug\n2_projeto.vbproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\n2_projeto26-11\obj\Debug\Interop.ADODB.dll
+C:\Users\aluno\Desktop\n2_projeto26-11\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\aluno\Desktop\n2_projeto26-11\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\aluno\Desktop\n2_projeto26-11\obj\Debug\n2_projeto.frm_contatos_clientes.resources
+C:\Users\aluno\Desktop\n2_projeto26-11\obj\Debug\n2_projeto.frm_contatos_fornecedores.resources
+C:\Users\aluno\Desktop\n2_projeto26-11\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\aluno\Desktop\n2_projeto26-11\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\aluno\Desktop\n2_projeto26-11\obj\Debug\n2_projeto.frm_list_contatos_c.resources
+C:\Users\aluno\Desktop\n2_projeto26-11\obj\Debug\n2_projeto.frm_list_contatos_f.resources
+C:\Users\aluno\Desktop\n2_projeto26-11\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\aluno\Desktop\n2_projeto26-11\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\aluno\Desktop\n2_projeto26-11\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\aluno\Desktop\n2_projeto26-11\obj\Debug\n2_projeto.Resources.resources
+C:\Users\aluno\Desktop\n2_projeto26-11\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\aluno\Desktop\n2_projeto26-11\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\n2_projeto26-11\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\aluno\Desktop\n2_projeto26-11\obj\Debug\n2_projeto.exe
+C:\Users\aluno\Desktop\n2_projeto26-11\obj\Debug\n2_projeto.xml
+C:\Users\aluno\Desktop\n2_projeto26-11\obj\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto27-11\bin\Debug\x86\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto27-11\bin\Debug\x64\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto27-11\bin\Debug\n2_projeto.exe.config
+C:\Users\gabri\Desktop\n2_projeto27-11\bin\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto27-11\bin\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto27-11\bin\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto27-11\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Desktop\n2_projeto27-11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\Desktop\n2_projeto27-11\bin\Debug\System.Data.SQLite.dll
+C:\Users\gabri\Desktop\n2_projeto27-11\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gabri\Desktop\n2_projeto27-11\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gabri\Desktop\n2_projeto27-11\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Desktop\n2_projeto27-11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\Desktop\n2_projeto27-11\bin\Debug\System.Data.SQLite.xml
+C:\Users\gabri\Desktop\n2_projeto27-11\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\n2_projeto27-11\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\Desktop\n2_projeto27-11\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\n2_projeto27-11\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\gabri\Desktop\n2_projeto27-11\obj\Debug\n2_projeto.frm_contatos_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto27-11\obj\Debug\n2_projeto.frm_contatos_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto27-11\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto27-11\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto27-11\obj\Debug\n2_projeto.frm_list_contatos_c.resources
+C:\Users\gabri\Desktop\n2_projeto27-11\obj\Debug\n2_projeto.frm_list_contatos_f.resources
+C:\Users\gabri\Desktop\n2_projeto27-11\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\gabri\Desktop\n2_projeto27-11\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto27-11\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto27-11\obj\Debug\n2_projeto.Resources.resources
+C:\Users\gabri\Desktop\n2_projeto27-11\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\n2_projeto27-11\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\n2_projeto27-11\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\gabri\Desktop\n2_projeto27-11\obj\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto27-11\obj\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto27-11\obj\Debug\n2_projeto.pdb
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\bin\Debug\x86\sqlite3.dll
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\bin\Debug\x64\sqlite3.dll
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\bin\Debug\n2_projeto.exe.config
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\bin\Debug\n2_projeto.exe
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\bin\Debug\n2_projeto.pdb
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\bin\Debug\n2_projeto.xml
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\bin\Debug\EntityFramework.dll
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\bin\Debug\System.Data.SQLite.dll
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\bin\Debug\EntityFramework.xml
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\bin\Debug\System.Data.SQLite.xml
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\obj\Debug\Interop.ADODB.dll
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\obj\Debug\n2_projeto.frm_contatos_clientes.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\obj\Debug\n2_projeto.frm_contatos_fornecedores.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\obj\Debug\n2_projeto.frm_list_contatos_c.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\obj\Debug\n2_projeto.frm_list_contatos_f.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\obj\Debug\n2_projeto.Resources.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\obj\Debug\n2_projeto.exe
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\obj\Debug\n2_projeto.xml
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto27-11\obj\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\bin\Debug\x86\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\bin\Debug\x64\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\bin\Debug\n2_projeto.exe.config
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\bin\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\bin\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\bin\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\bin\Debug\System.Data.SQLite.dll
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\bin\Debug\System.Data.SQLite.xml
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\obj\Debug\n2_projeto.frm_contatos_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\obj\Debug\n2_projeto.frm_contatos_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\obj\Debug\n2_projeto.frm_list_contatos_c.resources
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\obj\Debug\n2_projeto.frm_list_contatos_f.resources
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\obj\Debug\n2_projeto.Resources.resources
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\obj\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\obj\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto27-11(2)\obj\Debug\n2_projeto.pdb
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\bin\Debug\x86\sqlite3.dll
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\bin\Debug\x64\sqlite3.dll
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\bin\Debug\n2_projeto.exe.config
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\bin\Debug\n2_projeto.exe
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\bin\Debug\n2_projeto.pdb
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\bin\Debug\n2_projeto.xml
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\bin\Debug\EntityFramework.dll
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\bin\Debug\System.Data.SQLite.dll
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\bin\Debug\EntityFramework.xml
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\bin\Debug\System.Data.SQLite.xml
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\obj\Debug\Interop.ADODB.dll
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\obj\Debug\n2_projeto.frm_contatos_clientes.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\obj\Debug\n2_projeto.frm_contatos_fornecedores.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\obj\Debug\n2_projeto.frm_list_contatos_c.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\obj\Debug\n2_projeto.frm_list_contatos_f.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\obj\Debug\n2_projeto.Resources.resources
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\obj\Debug\n2_projeto.exe
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\obj\Debug\n2_projeto.xml
+C:\Users\thais\Desktop\ARQUIVOS PROJETO\n2_projeto28-11\obj\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto29-11\bin\Debug\x86\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto29-11\bin\Debug\x64\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto29-11\bin\Debug\n2_projeto.exe.config
+C:\Users\gabri\Desktop\n2_projeto29-11\bin\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto29-11\bin\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto29-11\bin\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto29-11\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Desktop\n2_projeto29-11\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\Desktop\n2_projeto29-11\bin\Debug\System.Data.SQLite.dll
+C:\Users\gabri\Desktop\n2_projeto29-11\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gabri\Desktop\n2_projeto29-11\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gabri\Desktop\n2_projeto29-11\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Desktop\n2_projeto29-11\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\Desktop\n2_projeto29-11\bin\Debug\System.Data.SQLite.xml
+C:\Users\gabri\Desktop\n2_projeto29-11\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\n2_projeto29-11\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\Desktop\n2_projeto29-11\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\n2_projeto29-11\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\gabri\Desktop\n2_projeto29-11\obj\Debug\n2_projeto.frm_contatos_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto29-11\obj\Debug\n2_projeto.frm_contatos_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto29-11\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto29-11\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto29-11\obj\Debug\n2_projeto.frm_list_contatos_c.resources
+C:\Users\gabri\Desktop\n2_projeto29-11\obj\Debug\n2_projeto.frm_list_contatos_f.resources
+C:\Users\gabri\Desktop\n2_projeto29-11\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\gabri\Desktop\n2_projeto29-11\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto29-11\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto29-11\obj\Debug\n2_projeto.Resources.resources
+C:\Users\gabri\Desktop\n2_projeto29-11\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\n2_projeto29-11\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\n2_projeto29-11\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\gabri\Desktop\n2_projeto29-11\obj\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto29-11\obj\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto29-11\obj\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto final\bin\Debug\x86\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto final\bin\Debug\x64\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto final\bin\Debug\n2_projeto.exe.config
+C:\Users\gabri\Desktop\n2_projeto final\bin\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto final\bin\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto final\bin\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto final\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\gabri\Desktop\n2_projeto final\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Desktop\n2_projeto final\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\Desktop\n2_projeto final\bin\Debug\System.Data.SQLite.dll
+C:\Users\gabri\Desktop\n2_projeto final\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gabri\Desktop\n2_projeto final\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gabri\Desktop\n2_projeto final\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Desktop\n2_projeto final\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\Desktop\n2_projeto final\bin\Debug\System.Data.SQLite.xml
+C:\Users\gabri\Desktop\n2_projeto final\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\n2_projeto final\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\Desktop\n2_projeto final\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\n2_projeto final\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\gabri\Desktop\n2_projeto final\obj\Debug\n2_projeto.frm_contatos_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto final\obj\Debug\n2_projeto.frm_contatos_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto final\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto final\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto final\obj\Debug\n2_projeto.frm_list_contatos_c.resources
+C:\Users\gabri\Desktop\n2_projeto final\obj\Debug\n2_projeto.frm_list_contatos_f.resources
+C:\Users\gabri\Desktop\n2_projeto final\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\gabri\Desktop\n2_projeto final\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto final\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto final\obj\Debug\n2_projeto.Resources.resources
+C:\Users\gabri\Desktop\n2_projeto final\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\n2_projeto final\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\n2_projeto final\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\gabri\Desktop\n2_projeto final\obj\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto final\obj\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto final\obj\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto_final\bin\Debug\x86\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto_final\bin\Debug\x64\sqlite3.dll
+C:\Users\gabri\Desktop\n2_projeto_final\bin\Debug\n2_projeto.exe.config
+C:\Users\gabri\Desktop\n2_projeto_final\bin\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto_final\bin\Debug\n2_projeto.pdb
+C:\Users\gabri\Desktop\n2_projeto_final\bin\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto_final\bin\Debug\EntityFramework.dll
+C:\Users\gabri\Desktop\n2_projeto_final\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\Desktop\n2_projeto_final\bin\Debug\System.Data.SQLite.dll
+C:\Users\gabri\Desktop\n2_projeto_final\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gabri\Desktop\n2_projeto_final\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gabri\Desktop\n2_projeto_final\bin\Debug\EntityFramework.xml
+C:\Users\gabri\Desktop\n2_projeto_final\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\Desktop\n2_projeto_final\bin\Debug\System.Data.SQLite.xml
+C:\Users\gabri\Desktop\n2_projeto_final\obj\Debug\n2_projeto.vbproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\n2_projeto_final\obj\Debug\Interop.ADODB.dll
+C:\Users\gabri\Desktop\n2_projeto_final\obj\Debug\n2_projeto.vbproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\n2_projeto_final\obj\Debug\n2_projeto.frm_cad_pedidos.resources
+C:\Users\gabri\Desktop\n2_projeto_final\obj\Debug\n2_projeto.frm_contatos_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto_final\obj\Debug\n2_projeto.frm_contatos_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto_final\obj\Debug\n2_projeto.frm_escolha_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto_final\obj\Debug\n2_projeto.frm_listagem.resources
+C:\Users\gabri\Desktop\n2_projeto_final\obj\Debug\n2_projeto.frm_list_contatos_c.resources
+C:\Users\gabri\Desktop\n2_projeto_final\obj\Debug\n2_projeto.frm_list_contatos_f.resources
+C:\Users\gabri\Desktop\n2_projeto_final\obj\Debug\n2_projeto.frm_menu.resources
+C:\Users\gabri\Desktop\n2_projeto_final\obj\Debug\n2_projeto.frm_cad_clientes.resources
+C:\Users\gabri\Desktop\n2_projeto_final\obj\Debug\n2_projeto.frm_cad_fornecedores.resources
+C:\Users\gabri\Desktop\n2_projeto_final\obj\Debug\n2_projeto.Resources.resources
+C:\Users\gabri\Desktop\n2_projeto_final\obj\Debug\n2_projeto.vbproj.GenerateResource.cache
+C:\Users\gabri\Desktop\n2_projeto_final\obj\Debug\n2_projeto.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\n2_projeto_final\obj\Debug\n2_projeto.vbproj.CopyComplete
+C:\Users\gabri\Desktop\n2_projeto_final\obj\Debug\n2_projeto.exe
+C:\Users\gabri\Desktop\n2_projeto_final\obj\Debug\n2_projeto.xml
+C:\Users\gabri\Desktop\n2_projeto_final\obj\Debug\n2_projeto.pdb
