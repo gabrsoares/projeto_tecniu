@@ -5,6 +5,6 @@ Este projeto foi desenvolvido como parte integral da avaliação da segunda unid
 
 ## Alunos
 
-- [Gabriel Alves Soares]
-- [Thais Gomes de Oliveira e Silva]
+- Gabriel Alves Soares
+- Thais Gomes de Oliveira e Silva
 
