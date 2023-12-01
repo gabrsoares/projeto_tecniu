@@ -66,6 +66,7 @@
     End Sub
 
     Private Sub btn_cad_fornecedores_Click_1(sender As Object, e As EventArgs) Handles btn_cad_fornecedores.Click
+        'abre o cadastro de fornecedores
         Try
             Me.Hide()
             Dim frm_cad_fornecedores As New frm_cad_fornecedores()
@@ -76,6 +77,7 @@
     End Sub
 
     Private Sub btn_cad_pedidos_Click(sender As Object, e As EventArgs) Handles btn_cad_pedidos.Click
+        'abre o cadastro de pedidos
         Try
             limpar_campos()
             editarPedido = False
@@ -87,11 +89,12 @@
     End Sub
 
     Private Sub btn_listagem_Click(sender As Object, e As EventArgs) Handles btn_listagem.Click
+        'abre o form de listagem
         Me.Hide()
         frm_escolha_listagem.ShowDialog()
     End Sub
 
-    Private Sub frm_menu_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+    Private Sub frm_menu_Load(sender As Object, e As EventArgs) Handles MyBase.Load 'centraliza o form
         Me.StartPosition = FormStartPosition.CenterScreen
     End Sub
 

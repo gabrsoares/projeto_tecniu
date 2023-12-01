@@ -11,7 +11,7 @@
         Dim celular As String = If(txt_celular.MaskCompleted = False, "", txt_celular.Text) 'validação para caso esteja vazio, não enviar a máscara ()_____... vazia
 
         Try
-
+            'verifica se os campos obrigatórios estão preenchidos.
             If (txt_codcliente.Text = "" OrElse txt_empresa.Text = "" OrElse txt_nome.Text = "" OrElse txt_cargo.Text = "") Then
                 MsgBox("Preencha todos os campos obrigatórios!", MsgBoxStyle.Information + MsgBoxStyle.OkOnly, "AVISO")
             Else
@@ -57,12 +57,14 @@
     End Sub
 
     Private Sub txt_codcliente_LostFocus(sender As Object, e As EventArgs) Handles txt_codcliente.LostFocus
+        'puxa o nome da empresa ao perder o foco do campo de codcliente
         SQL = "select * from tb_clientes where codcliente='" & txt_codcliente.Text & "'"
         cmd.CommandText = SQL
         reader = cmd.ExecuteReader()
         If reader.Read() Then
             txt_empresa.Text = reader.GetString(1)
         Else
+            'caso nao encontre, pergunta se quer exibir o gridview de clientes
             resp = MsgBox("Código de cliente não encontrado, deseja consultar os clientes?", MsgBoxStyle.Question + MsgBoxStyle.YesNo, "AVISO")
             If resp = vbYes Then
                 reader.Close()
@@ -99,7 +101,7 @@
     End Sub
 
     Private Sub frm_contatos_clientes_FormClosing(sender As Object, e As FormClosingEventArgs) Handles Me.FormClosing
-        If e.CloseReason = CloseReason.UserClosing Then
+        If e.CloseReason = CloseReason.UserClosing Then 'volta para o menu caso aperte no X
             frm_menu.Show()
         End If
     End Sub

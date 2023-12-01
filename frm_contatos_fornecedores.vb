@@ -52,6 +52,7 @@
     End Sub
 
     Private Sub txt_codfornecedor_LostFocus(sender As Object, e As EventArgs) Handles txt_codfornecedor.LostFocus
+        'procura o nome da empresa do fornecedor ao perder o foco do campo de codigo do fornecedor
         SQL = "select * from tb_fornecedores where codfornecedor='" & txt_codfornecedor.Text & "'"
         cmd.CommandText = SQL
         reader = cmd.ExecuteReader()
@@ -96,7 +97,7 @@
     End Sub
 
     Private Sub frm_contatos_fornecedores_FormClosing(sender As Object, e As FormClosingEventArgs) Handles Me.FormClosing
-        If e.CloseReason = CloseReason.UserClosing Then
+        If e.CloseReason = CloseReason.UserClosing Then 'volta pro menu ao apertar o X
             frm_menu.Show()
         End If
     End Sub

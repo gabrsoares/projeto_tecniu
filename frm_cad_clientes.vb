@@ -2,7 +2,7 @@
 Imports System.Data.SQLite
 
 Public Class frm_cad_clientes
-    Private botaoVoltar = False
+    Private botaoVoltar = False 'reseta a logica dos dois botões
     Private btnContato = False
     Private Sub frm_cad_clientes_Load(sender As Object, e As EventArgs) Handles Me.Load
         btnContato = False
@@ -17,29 +17,11 @@ Public Class frm_cad_clientes
     End Sub
 
     Private Sub txt_inscricao_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txt_inscricao.KeyPress
-        If Not Char.IsDigit(e.KeyChar) AndAlso e.KeyChar <> Convert.ToChar(Keys.Back) Then 'validação para preenchimento numérico do campo de inscrição
+        'validação para preenchimento numérico do campo de inscrição, permite apenas a entrada de números.
+        If Not Char.IsDigit(e.KeyChar) AndAlso e.KeyChar <> Convert.ToChar(Keys.Back) Then
             e.Handled = True
         End If
     End Sub
-
-    'Private Sub txt_cep_LostFocus(sender As Object, e As EventArgs) Handles txt_cep.LostFocus
-    'Try
-    'SQL = "select * from tb_cep where cep='" & txt_cep.Text & "'"
-    'reader = cmd.ExecuteReader()
-    'If reader.Read() Then
-    ' txt_endereco.Text = reader.GetString(1)
-    ' txt_cidade.Text = reader.GetString(2)
-    ' txt_bairro.Text = reader.GetString(3)
-    ' txt_uf.Text = reader.GetString(4)
-    '  txt_site.Focus()
-    '
-    'reader.Close()
-    'Catch ex As Exception
-    ' MsgBox("ERRO AO BUSCAR CEP", MsgBoxStyle.Critical + vbOKOnly, "ERRO")
-    'End Try
-
-    'End Sub
-
     Private Sub txt_cep_DoubleClick(sender As Object, e As EventArgs) Handles txt_cep.DoubleClick 'limpa os campos de endereço ao clicar 2x no cep
         txt_cep.Clear()
         txt_endereco.Clear()
@@ -169,15 +151,5 @@ Public Class frm_cad_clientes
         End If
 
     End Sub
-
-    Private Sub PictureBox1_Click(sender As Object, e As EventArgs) Handles PictureBox1.Click
-
-    End Sub
-
-    ' Private Sub frm_cad_clientes_FormClosing(sender As Object, e As FormClosingEventArgs) Handles MyBase.FormClosing
-    '    db.Close()
-    'Dim frm_menu As New frm_menu()
-    '   frm_menu.Show()
-    ''End Sub
 
 End Class

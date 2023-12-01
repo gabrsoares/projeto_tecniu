@@ -32,7 +32,7 @@ Public Class frm_listagem
         End If
         cmd.CommandText = SQL
         cmd.ExecuteNonQuery()
-
+        'escolhe o datagridview de acordo com a aba escolhida
         If mostrarCliente = True Then
             dgvEscolhido = dgv_clientes
         ElseIf mostrarFornecedor = True Then
@@ -62,6 +62,7 @@ Public Class frm_listagem
     End Sub
 
     Private Sub dgv_clientes_CellContentClick_1(sender As Object, e As DataGridViewCellEventArgs) Handles dgv_clientes.CellContentClick
+        'logicas que ativam ao apertar no botão de editar, add contato ou excluir
         Try
             With dgv_clientes
                 If (db.State <> ConnectionState.Open) Then
@@ -135,6 +136,7 @@ Public Class frm_listagem
 
     Private Sub dgv_fornecedores_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles dgv_fornecedores.CellContentClick
         Try
+            'mesma logica do dgv_clientes
             With dgv_fornecedores
                 If (db.State <> ConnectionState.Open) Then
                     db.Open()
@@ -203,6 +205,7 @@ Public Class frm_listagem
     End Sub
 
     Private Sub dgv_pedidos_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles dgv_pedidos.CellContentClick
+        'mesma logica do dgv_clientes e de fornecedores
         Try
             If (db.State <> ConnectionState.Open) Then
                 db.Open()
@@ -241,7 +244,7 @@ Public Class frm_listagem
                         End If
                         reader.Close()
                         db.Close()
-                        editarCadastro = True
+                        editarCadastro = True 'ativa os campos escondidos no formulário de cadastro de pedidos
                         Me.Hide()
                         frm_cad_pedidos.ShowDialog()
                     End If
@@ -258,6 +261,7 @@ Public Class frm_listagem
 
 
     Private Sub btn_voltar_Click(sender As Object, e As EventArgs) Handles btn_voltar.Click
+        'volta para o formulário anterior, por ter mais de uma entrada, é necessário a logica abaixo
         If (btnBusca = True) Then
             btnBusca = False
             Me.Close()
@@ -272,6 +276,7 @@ Public Class frm_listagem
     End Sub
 
     Private Sub btn_atualizar_Click(sender As Object, e As EventArgs) Handles btn_atualizar.Click
+        'atualiza os dados do datagridview
         If mostrarCliente = True Then
             carregar_dados_cliente()
         ElseIf mostrarFornecedor = True Then
@@ -282,7 +287,7 @@ Public Class frm_listagem
     End Sub
 
     Private Sub frm_listagem_FormClosing(sender As Object, e As FormClosingEventArgs) Handles Me.FormClosing
-        If e.CloseReason = CloseReason.UserClosing Then 'se o usuário apertou no x, volta pro menu
+        If e.CloseReason = CloseReason.UserClosing Then 'se o usuário apertou no x, volta pro menu de listagem
             frm_escolha_listagem.Show()
         End If
     End Sub

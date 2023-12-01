@@ -2,13 +2,13 @@
 Imports System.Data.SQLite
 
 Module Module1
-    Public diretorio, SQL, resp As String
-    Public valor_cod_pedido As String
-    Public mostrarCliente, mostrarFornecedor, mostrarPedido As Boolean
-    Public editarPedido As Boolean = False
-    Public editarCadastro As Boolean = False
-    Public editarContato As Boolean = False
-    Public btnBusca As Boolean = False
+    Public diretorio, SQL, resp As String 'variaveis para utilização do banco de dados
+    Public valor_cod_pedido As String 'armazena o valor do código do pedido
+    Public mostrarCliente, mostrarFornecedor, mostrarPedido As Boolean 'variaveis para escolher a aba da listagem
+    Public editarPedido As Boolean = False 'logica para esconder campos e redirecionamento
+    Public editarCadastro As Boolean = False 'logica para esconder campos e redirecionamento
+    Public editarContato As Boolean = False 'logica para esconder campos e redirecionamento
+    Public btnBusca As Boolean = False 'logica para redirecionamento
     Public db As New SQLiteConnection()
     Public cmd As New SQLiteCommand(SQL, db)
     Public caminho = Application.StartupPath & "\Banco\db_tecniu.db"

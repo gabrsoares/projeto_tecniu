@@ -17,22 +17,6 @@ Public Class frm_cad_fornecedores
         End If
     End Sub
 
-
-
-    'Private Sub txt_cep_LostFocus(sender As Object, e As EventArgs) Handles txt_cep.LostFocus
-    'SQL = "select * from tb_cep where cep='" & txt_cep.Text & "'"
-    'cmd.CommandText = SQL
-    'reader = cmd.ExecuteReader()
-    'If reader.Read() Then
-    ' txt_endereco.Text = reader.GetString(1)
-    'txt_cidade.Text = reader.GetString(2)
-    'txt_bairro.Text = reader.GetString(3)
-    'txt_uf.Text = reader.GetString(4)
-    'txt_site.Focus()
-    'End If
-    'reader.Close()
-    'End Sub
-
     Private Sub txt_cep_DoubleClick(sender As Object, e As EventArgs) Handles txt_cep.DoubleClick 'limpa os campos de endereço ao clicar 2x no cep
         txt_cep.Clear()
         txt_endereco.Clear()

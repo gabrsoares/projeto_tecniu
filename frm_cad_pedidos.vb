@@ -50,6 +50,7 @@ Public Class frm_cad_pedidos
     End Sub
 
     Private Sub txt_num_cliente_LostFocus(sender As Object, e As EventArgs) Handles txt_num_cliente.LostFocus
+        'ativa a busca pelo nome da empresa ao perder o foco no campo de numero de cliente
         Dim num_cliente As Integer
         If (db.State <> ConnectionState.Open) Then
             db.Open()
@@ -61,7 +62,6 @@ Public Class frm_cad_pedidos
             If Not reader.Read() Then
                 resp = MsgBox("Cliente não encontrado, deseja verificar a listagem de clientes?", MsgBoxStyle.Question + vbYesNo, "AVISO")
                 If resp = vbYes Then
-                    'precisa fechar o form aqui
                     reader.Close()
                     db.Close()
                     mostrar_clientes()
@@ -79,6 +79,7 @@ Public Class frm_cad_pedidos
     End Sub
 
     Private Sub btn_listagem_Click(sender As Object, e As EventArgs) Handles btn_listagem.Click
+        'realiza a mesma função do botão de abrir a listagem de clientes, oculta as outras abas.
         btnBusca = True
         limpar_cmb_filtro()
         mostrarCliente = True
@@ -94,6 +95,7 @@ Public Class frm_cad_pedidos
     End Sub
 
     Private Sub btn_cancelar_Click(sender As Object, e As EventArgs) Handles btn_cancelar.Click
+        'volta para o menu ou para o formulario de listagem de acordo com qual foi o ultimo formulario
         botaoVoltar = True
         db.Close()
         If (editarPedido) Then
@@ -139,6 +141,7 @@ Public Class frm_cad_pedidos
         End If
     End Sub
     Private Sub frm_cad_pedidos_FormClosing(sender As Object, e As FormClosingEventArgs) Handles MyBase.FormClosing
+        'logica para fechar o formulário pelo botão de X
         db.Close()
         If (Not botaoVoltar) Then
             If (Not btnBusca) Then
@@ -153,20 +156,22 @@ Public Class frm_cad_pedidos
     End Sub
 
     Private Sub btn_confirmar_Click(sender As Object, e As EventArgs) Handles btn_confirmar.Click
+        'criação de variáveis para a lógica da função
         Dim data_atual = DateTime.Now
         Dim statusEntregue As String
         Dim dataEntrega As String
         Try
-            If entregou Then
+            If entregou Then 'botão de entregue ativa ao editar contato
                 statusEntregue = "SIM"
             Else
                 statusEntregue = "NAO"
             End If
-            If txt_data_entrega.MaskCompleted = False Then
+            If txt_data_entrega.MaskCompleted = False Then 'evita que seja enviado no banco de dados no formato de "  /  /    "
                 dataEntrega = ""
             Else
                 dataEntrega = txt_data_entrega.Text
             End If
+            'verifica se os campos estão preenchidos
             If (txt_pedido.Text = "" OrElse txt_descricao.Text = "" OrElse txt_num_cliente.Text = "" OrElse txt_cliente.Text = "" OrElse txt_valor.Text = "") Then
                 MsgBox("Preencha todos os campos obrigatórios!", MsgBoxStyle.Information + MsgBoxStyle.OkOnly, "AVISO")
             Else
@@ -182,7 +187,7 @@ Public Class frm_cad_pedidos
                     cmd.ExecuteNonQuery()
                     MsgBox("Pedido criado com sucesso!", MsgBoxStyle.Information + vbOKOnly, "AVISO")
                     LimparCampos()
-                Else
+                Else 'se já existe o registro, pergunta se quer editar
                     SQL = "update tb_pedidos set pedido='" & txt_pedido.Text.ToUpper() & "', descricao='" & txt_descricao.Text.ToUpper() & "', " &
                             "link_orcamento='" & txt_link_orcamento.Text & "', data_entrega='" & txt_data_entrega.Text & "', prev_entrega='" & txt_previsao.Text & "', " &
                             "status='" & cmb_status.Text & "', valor='" & txt_valor.Text & "', link_os='" & txt_link_os.Text & "', entregue='" & statusEntregue & "' where codpedido='" & valor_cod_pedido & "'"
@@ -200,6 +205,7 @@ Public Class frm_cad_pedidos
     End Sub
 
     Private Sub txt_valor_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txt_valor.KeyPress
+        'troca a tecla de vírgula para o . para evitar problemas ao inserir numeros com ,
         Dim tamanhoTexto As Integer = txt_valor.Text.Length
         If e.KeyChar = "," Then
             txt_valor.Text = txt_valor.Text.Insert(txt_valor.SelectionStart, ".")
@@ -209,6 +215,7 @@ Public Class frm_cad_pedidos
     End Sub
 
     Private Sub cb_entregue_CheckedChanged(sender As Object, e As EventArgs) Handles cb_entregue.CheckedChanged
+        'troca o status de entregue de acordo com o checkbox
         If cb_entregue.Checked = True Then
             entregou = True
         Else

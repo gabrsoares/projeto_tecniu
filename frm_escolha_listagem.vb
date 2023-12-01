@@ -1,5 +1,5 @@
 ﻿Public Class frm_escolha_listagem
-    Private Sub btn_clientes_Click(sender As Object, e As EventArgs) Handles btn_clientes.Click
+    Private Sub btn_clientes_Click(sender As Object, e As EventArgs) Handles btn_clientes.Click 'abre a listagem de clientes
         db.Close()
         limpar_cmb_filtro()
         mostrar_clientes()
@@ -7,14 +7,14 @@
         frm_listagem.Show()
     End Sub
 
-    Private Sub btn_fornecedores_Click(sender As Object, e As EventArgs) Handles btn_fornecedores.Click
+    Private Sub btn_fornecedores_Click(sender As Object, e As EventArgs) Handles btn_fornecedores.Click 'abre a listagem de fornecedores
         db.Close()
         limpar_cmb_filtro()
         Me.Hide()
         mostrar_fornecedores()
     End Sub
 
-    Private Sub btn_pedidos_Click(sender As Object, e As EventArgs) Handles btn_pedidos.Click
+    Private Sub btn_pedidos_Click(sender As Object, e As EventArgs) Handles btn_pedidos.Click 'abre a listagem de pedidos
         db.Close()
         limpar_cmb_filtro()
         Me.Hide()
@@ -27,6 +27,7 @@
         End If
     End Sub
 
+    'as logicas abaixo são para alterar as cores dos botões ao colocar o mouse em cima, clicar, etc...
     Private Sub btn_clientes_MouseEnter(sender As Object, e As EventArgs) Handles btn_clientes.MouseEnter
         ' Muda a cor de fundo quando o cursor entra no botão
         btn_clientes.BackColor = Color.FromArgb(255, 204, 204)
@@ -82,6 +83,7 @@
         btn_contatos_clientes.BackColor = Color.White
         btn_contatos_clientes.FlatAppearance.BorderColor = Color.Red
     End Sub
+    'fim das logicas de alteração de cor 
     Public Sub New()
         ' Este é o construtor do formulário
         InitializeComponent()
@@ -90,17 +92,17 @@
         Me.StartPosition = FormStartPosition.CenterScreen
     End Sub
 
-    Private Sub btn_contatos_clientes_Click(sender As Object, e As EventArgs) Handles btn_contatos_clientes.Click
+    Private Sub btn_contatos_clientes_Click(sender As Object, e As EventArgs) Handles btn_contatos_clientes.Click 'abre os contatos de clientes
         Me.Hide()
         frm_list_contatos_c.ShowDialog()
     End Sub
 
-    Private Sub btn_contato_forn_Click(sender As Object, e As EventArgs) Handles btn_contato_forn.Click
+    Private Sub btn_contato_forn_Click(sender As Object, e As EventArgs) Handles btn_contato_forn.Click 'abre os contatos de fornecedores
         Me.Hide()
         frm_list_contatos_f.ShowDialog()
     End Sub
 
-    Private Sub btn_voltar_Click(sender As Object, e As EventArgs) Handles btn_voltar.Click
+    Private Sub btn_voltar_Click(sender As Object, e As EventArgs) Handles btn_voltar.Click 'volta pro menu
         Me.Hide()
         frm_menu.Show()
     End Sub
