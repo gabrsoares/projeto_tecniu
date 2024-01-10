@@ -1,7 +1,7 @@
 # Projeto de software TECNIU
 
 ## Descrição do Projeto
-Este projeto foi desenvolvido como parte integral da avaliação da segunda unidade das disciplinas de Sistemas da Informação e Engenharia de Software I.
+Este projeto foi desenvolvido como parte integral da avaliação da segunda unidade das disciplinas de Sistemas de Informação e Engenharia de Software I.
 
 ## Alunos
 
