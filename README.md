@@ -34,8 +34,3 @@ Ou
 2. Navegue até a pasta bin/Debug
 3. Execute o aplicativo n2_projeto.
 
-
-## Alunos
-- Gabriel Alves Soares
-- Thais Gomes de Oliveira e Silva
-
